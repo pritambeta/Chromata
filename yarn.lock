@@ -7552,6 +7552,11 @@ react-native-linear-gradient@^2.5.6, react-native-linear-gradient@>=2.4.0:
   resolved "https://registry.npmjs.org/react-native-linear-gradient/-/react-native-linear-gradient-2.8.3.tgz"
   integrity sha512-KflAXZcEg54PXkLyflaSZQ3PJp4uC4whM7nT/Uot9m0e/qxFV3p6uor1983D1YOBJbJN7rrWdqIjq0T42jOJyA==
 
+react-native-manage-wallpaper@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.npmjs.org/react-native-manage-wallpaper/-/react-native-manage-wallpaper-1.2.1.tgz"
+  integrity sha512-qLp3wbwpOPj2JZvubuyXQx+C5nikEx1GVZv9SmRiN5temAOaQGV5vbG2sILCbYBtAszDnFVLaDSlgvRaLCRJ2w==
+
 react-native-reanimated@>=2.0.0, react-native-reanimated@2.1.0:
   version "2.1.0"
   resolved "https://registry.npmjs.org/react-native-reanimated/-/react-native-reanimated-2.1.0.tgz"

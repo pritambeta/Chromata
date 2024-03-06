@@ -8,10 +8,11 @@ export function shuffleArray(array: any[]): any[] {
 }
 
 export const categories = [
-  ["Nature", "Animals", "Food", "Abstract", "Travel", "Vintage", "Architecture", "Technology", "Sea", "Fantasy", "Minimalist", "Patterns", "Backgrounds", "Aviation", "Sunset"],
+  ["Nature", "Animals", "Food", "Abstract", "Sea", "Fantasy", "Patterns", "Backgrounds", "Aviation", "Sunset"],
 
-  ["Business", "Health", "Science", "Education", "Gaming", "Futuristic", "Forest", "Cars", "Neon", "Mountains", "Textures", "Landscapes", "Underwater"],
+  ["Health", "Science", "Gaming", "Futuristic", "Forest", "Cars", "Neon", "Mountains", "Landscapes", "Underwater"],
 
-  ["Galaxy", "Village", "Computer", "Ancient", "Cartoons", "Retro", "Buildings", "Night Sky", "Wildlife", "Space", "Arts", "City", "Flowers"]];
+  ["Galaxy", "Computer", "Cartoons", "Buildings", "Night Sky", "Wildlife", "Space", "Arts", "City", "Flowers"]
+];
 
 
