@@ -67,5 +67,5 @@ yarn-error.log
 android/.gradle/
 android/app/build/
 ios/
-_tests_/
+__tests__/
 .bundle/
