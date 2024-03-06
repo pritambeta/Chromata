@@ -1,5 +1,5 @@
 # Chromata
-> Chromata is a React Native and Redux-based image viewer app that leverages the Unsplash API to fetch beautiful images and set them as wallpaper.
+> Chromata is an app for wallpapers made with React Native and Redux. It uses the Unsplash API to get beautiful pictures and lets you set them as your wallpaper.
 
 ## About The App
 - Begin with a selection of over 30 image categories.
